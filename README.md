@@ -11,7 +11,7 @@ Welcome to Hack Reactor's JavaScript Mini Bootcamp. You're here to solidify your
 Each section consists of a lecture followed by a set of self-guided exercises. The self-guided exercises can be found in each section's respective folder in this repository. Before getting started, make sure that you have a JavaScript console open (like <a href="http://www.repl.it/languages/javascript" target="_blank">repl.it</a>), so you can complete all of the exercises.
 
 *IMPORTANT*: Completion of this workshop is no guarantee of admission into the Hack Reactor immersive program, nor does it have any influence in the admissions process.
-
+<<MY OWN WORDS!!!!>>>
 ## Textbook
 
 No textbook is required for this workhop. All materials are included in this GitHub repo.
